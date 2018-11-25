@@ -1,0 +1,18 @@
+Requesitos funcionais:
+- gerir informações administrativas
+- gerir medicos
+- gerir especialidades
+- gerir horarios
+- gerir preços das consultas
+- indicar localização da clinica
+
+- marcar consultas
+- cancelar consultas
+- modificar consultas
+- pesquisar consultas
+
+
+Requesitos nao funcionais:
+- Usabilidade -> A aplicação deve ser compatível com alguns dos programas mais comuns de navegação na Internet, nomeadamente o Internet Explorer e o Mozilla. A interface com o utilizador deve ser de fácil utilização. 
+- Fiabilidade -> Os requisitos mínimos devem ser satisfeitos sem que haja falhas. 
+- Desempenho -> O sistema deve garantir rapidez nos acessos WS (Web Service) subjacente, de maneira a que a utilização seja confortável e que haja uma grande fluidez quando o browser carrega a página solicitada pelo utilizador. 
